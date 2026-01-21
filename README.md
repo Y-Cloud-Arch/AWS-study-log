@@ -8,7 +8,7 @@
 - **Vision**: 複雑なビジネス課題をAWSのベストプラクティス（Well-Architected Framework）で解決できるアーキテクト。
 
 ## 📝 Learning Milestones (Zenn)
-学習の節目（マイルストーン）ごとに技術記事を執筆し、知見を体系化しています。
+学習の節目（マイルストーン）ごとに勉強方法や費した時間、つまずいた所などを執筆し、知見を体系化しています。
 - [Zenn Articles / y_cloud_arch](https://zenn.dev/y_cloud_arch)
 
 ## 🗺 Roadmap
